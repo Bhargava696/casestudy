@@ -1,0 +1,51 @@
+body {
+    font-family: 'Staatliches', cursive;
+    background: linear-gradient(rgb(39, 53, 255) 0%, rgb(245, 0, 143) 100%);
+}
+
+.good img {
+    width: 150px
+}
+
+.image {
+    background: #00ff6a;
+    padding: 30px;
+    border-radius: 20px;
+    width: 50%;
+    display: inline-block;
+    box-shadow: 5px 10px 15px grey;
+}
+
+img {
+    width: 300px;
+    border-radius: 20px;
+}
+
+span {
+    color: red;
+}
+
+h5 b {
+    color: purple;
+}
+
+.vhon {
+    background: #f56f6f;
+    padding: 30px;
+    border-radius: 20px;
+    width: 50%;
+    display: inline-block;
+    box-shadow: 5px 5px 18px grey;
+}
+
+.fancy {
+    box-shadow: 5px 5px 18px grey;
+    letter-spacing: 2px;
+    background: #00f5d4;
+    border-radius: 20px;
+    padding: 20px;
+    border:2px solid grey;
+}
+.fancy b {
+    color: purple;
+}
